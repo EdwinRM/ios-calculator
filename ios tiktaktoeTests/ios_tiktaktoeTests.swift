@@ -6,9 +6,9 @@
 //
 
 import XCTest
-@testable import ios_calculator
+@testable import ios_tiktaktoe
 
-final class ios_calculatorTests: XCTestCase {
+final class ios_tiktaktoeTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

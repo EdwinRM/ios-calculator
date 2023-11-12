@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class ios_calculatorUITestsLaunchTests: XCTestCase {
+final class ios_tiktaktoeUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

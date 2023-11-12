@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ios_calculatorApp: App {
+struct ios_tiktaktoeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

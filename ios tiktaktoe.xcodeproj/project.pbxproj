@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1CCA2AF52AFFEA79002A320C /* ios_calculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2AF42AFFEA79002A320C /* ios_calculatorApp.swift */; };
+		1CCA2AF52AFFEA79002A320C /* ios_tiktaktoeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2AF42AFFEA79002A320C /* ios_tiktaktoeApp.swift */; };
 		1CCA2AF72AFFEA79002A320C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2AF62AFFEA79002A320C /* ContentView.swift */; };
 		1CCA2AF92AFFEA7A002A320C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CCA2AF82AFFEA7A002A320C /* Assets.xcassets */; };
 		1CCA2AFC2AFFEA7A002A320C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CCA2AFB2AFFEA7A002A320C /* Preview Assets.xcassets */; };
-		1CCA2B062AFFEA7B002A320C /* ios_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B052AFFEA7B002A320C /* ios_calculatorTests.swift */; };
-		1CCA2B102AFFEA7B002A320C /* ios_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B0F2AFFEA7B002A320C /* ios_calculatorUITests.swift */; };
-		1CCA2B122AFFEA7B002A320C /* ios_calculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B112AFFEA7B002A320C /* ios_calculatorUITestsLaunchTests.swift */; };
+		1CCA2B062AFFEA7B002A320C /* ios_tiktaktoeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B052AFFEA7B002A320C /* ios_tiktaktoeTests.swift */; };
+		1CCA2B102AFFEA7B002A320C /* ios_tiktaktoeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B0F2AFFEA7B002A320C /* ios_tiktaktoeUITests.swift */; };
+		1CCA2B122AFFEA7B002A320C /* ios_tiktaktoeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1CCA2B112AFFEA7B002A320C /* ios_tiktaktoeUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,16 +34,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1CCA2AF12AFFEA79002A320C /* ios calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1CCA2AF42AFFEA79002A320C /* ios_calculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_calculatorApp.swift; sourceTree = "<group>"; };
+		1CCA2AF12AFFEA79002A320C /* ios tiktaktoe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios tiktaktoe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CCA2AF42AFFEA79002A320C /* ios_tiktaktoeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_tiktaktoeApp.swift; sourceTree = "<group>"; };
 		1CCA2AF62AFFEA79002A320C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1CCA2AF82AFFEA7A002A320C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1CCA2AFB2AFFEA7A002A320C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		1CCA2B012AFFEA7B002A320C /* ios calculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios calculatorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1CCA2B052AFFEA7B002A320C /* ios_calculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_calculatorTests.swift; sourceTree = "<group>"; };
-		1CCA2B0B2AFFEA7B002A320C /* ios calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios calculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1CCA2B0F2AFFEA7B002A320C /* ios_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_calculatorUITests.swift; sourceTree = "<group>"; };
-		1CCA2B112AFFEA7B002A320C /* ios_calculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_calculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1CCA2B012AFFEA7B002A320C /* ios tiktaktoeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios tiktaktoeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CCA2B052AFFEA7B002A320C /* ios_tiktaktoeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_tiktaktoeTests.swift; sourceTree = "<group>"; };
+		1CCA2B0B2AFFEA7B002A320C /* ios tiktaktoeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ios tiktaktoeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CCA2B0F2AFFEA7B002A320C /* ios_tiktaktoeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_tiktaktoeUITests.swift; sourceTree = "<group>"; };
+		1CCA2B112AFFEA7B002A320C /* ios_tiktaktoeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ios_tiktaktoeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +74,9 @@
 		1CCA2AE82AFFEA79002A320C = {
 			isa = PBXGroup;
 			children = (
-				1CCA2AF32AFFEA79002A320C /* ios calculator */,
-				1CCA2B042AFFEA7B002A320C /* ios calculatorTests */,
-				1CCA2B0E2AFFEA7B002A320C /* ios calculatorUITests */,
+				1CCA2AF32AFFEA79002A320C /* ios tiktaktoe */,
+				1CCA2B042AFFEA7B002A320C /* ios tiktaktoeTests */,
+				1CCA2B0E2AFFEA7B002A320C /* ios tiktaktoeUITests */,
 				1CCA2AF22AFFEA79002A320C /* Products */,
 			);
 			sourceTree = "<group>";
@@ -84,22 +84,22 @@
 		1CCA2AF22AFFEA79002A320C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1CCA2AF12AFFEA79002A320C /* ios calculator.app */,
-				1CCA2B012AFFEA7B002A320C /* ios calculatorTests.xctest */,
-				1CCA2B0B2AFFEA7B002A320C /* ios calculatorUITests.xctest */,
+				1CCA2AF12AFFEA79002A320C /* ios tiktaktoe.app */,
+				1CCA2B012AFFEA7B002A320C /* ios tiktaktoeTests.xctest */,
+				1CCA2B0B2AFFEA7B002A320C /* ios tiktaktoeUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		1CCA2AF32AFFEA79002A320C /* ios calculator */ = {
+		1CCA2AF32AFFEA79002A320C /* ios tiktaktoe */ = {
 			isa = PBXGroup;
 			children = (
-				1CCA2AF42AFFEA79002A320C /* ios_calculatorApp.swift */,
+				1CCA2AF42AFFEA79002A320C /* ios_tiktaktoeApp.swift */,
 				1CCA2AF62AFFEA79002A320C /* ContentView.swift */,
 				1CCA2AF82AFFEA7A002A320C /* Assets.xcassets */,
 				1CCA2AFA2AFFEA7A002A320C /* Preview Content */,
 			);
-			path = "ios calculator";
+			path = "ios tiktaktoe";
 			sourceTree = "<group>";
 		};
 		1CCA2AFA2AFFEA7A002A320C /* Preview Content */ = {
@@ -110,29 +110,29 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		1CCA2B042AFFEA7B002A320C /* ios calculatorTests */ = {
+		1CCA2B042AFFEA7B002A320C /* ios tiktaktoeTests */ = {
 			isa = PBXGroup;
 			children = (
-				1CCA2B052AFFEA7B002A320C /* ios_calculatorTests.swift */,
+				1CCA2B052AFFEA7B002A320C /* ios_tiktaktoeTests.swift */,
 			);
-			path = "ios calculatorTests";
+			path = "ios tiktaktoeTests";
 			sourceTree = "<group>";
 		};
-		1CCA2B0E2AFFEA7B002A320C /* ios calculatorUITests */ = {
+		1CCA2B0E2AFFEA7B002A320C /* ios tiktaktoeUITests */ = {
 			isa = PBXGroup;
 			children = (
-				1CCA2B0F2AFFEA7B002A320C /* ios_calculatorUITests.swift */,
-				1CCA2B112AFFEA7B002A320C /* ios_calculatorUITestsLaunchTests.swift */,
+				1CCA2B0F2AFFEA7B002A320C /* ios_tiktaktoeUITests.swift */,
+				1CCA2B112AFFEA7B002A320C /* ios_tiktaktoeUITestsLaunchTests.swift */,
 			);
-			path = "ios calculatorUITests";
+			path = "ios tiktaktoeUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1CCA2AF02AFFEA79002A320C /* ios calculator */ = {
+		1CCA2AF02AFFEA79002A320C /* ios tiktaktoe */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CCA2B152AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculator" */;
+			buildConfigurationList = 1CCA2B152AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoe" */;
 			buildPhases = (
 				1CCA2AED2AFFEA79002A320C /* Sources */,
 				1CCA2AEE2AFFEA79002A320C /* Frameworks */,
@@ -142,14 +142,14 @@
 			);
 			dependencies = (
 			);
-			name = "ios calculator";
+			name = "ios tiktaktoe";
 			productName = "ios calculator";
-			productReference = 1CCA2AF12AFFEA79002A320C /* ios calculator.app */;
+			productReference = 1CCA2AF12AFFEA79002A320C /* ios tiktaktoe.app */;
 			productType = "com.apple.product-type.application";
 		};
-		1CCA2B002AFFEA7B002A320C /* ios calculatorTests */ = {
+		1CCA2B002AFFEA7B002A320C /* ios tiktaktoeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CCA2B182AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculatorTests" */;
+			buildConfigurationList = 1CCA2B182AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoeTests" */;
 			buildPhases = (
 				1CCA2AFD2AFFEA7B002A320C /* Sources */,
 				1CCA2AFE2AFFEA7B002A320C /* Frameworks */,
@@ -160,14 +160,14 @@
 			dependencies = (
 				1CCA2B032AFFEA7B002A320C /* PBXTargetDependency */,
 			);
-			name = "ios calculatorTests";
+			name = "ios tiktaktoeTests";
 			productName = "ios calculatorTests";
-			productReference = 1CCA2B012AFFEA7B002A320C /* ios calculatorTests.xctest */;
+			productReference = 1CCA2B012AFFEA7B002A320C /* ios tiktaktoeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		1CCA2B0A2AFFEA7B002A320C /* ios calculatorUITests */ = {
+		1CCA2B0A2AFFEA7B002A320C /* ios tiktaktoeUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CCA2B1B2AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculatorUITests" */;
+			buildConfigurationList = 1CCA2B1B2AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoeUITests" */;
 			buildPhases = (
 				1CCA2B072AFFEA7B002A320C /* Sources */,
 				1CCA2B082AFFEA7B002A320C /* Frameworks */,
@@ -178,9 +178,9 @@
 			dependencies = (
 				1CCA2B0D2AFFEA7B002A320C /* PBXTargetDependency */,
 			);
-			name = "ios calculatorUITests";
+			name = "ios tiktaktoeUITests";
 			productName = "ios calculatorUITests";
-			productReference = 1CCA2B0B2AFFEA7B002A320C /* ios calculatorUITests.xctest */;
+			productReference = 1CCA2B0B2AFFEA7B002A320C /* ios tiktaktoeUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -206,7 +206,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1CCA2AEC2AFFEA79002A320C /* Build configuration list for PBXProject "ios calculator" */;
+			buildConfigurationList = 1CCA2AEC2AFFEA79002A320C /* Build configuration list for PBXProject "ios tiktaktoe" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,9 +219,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1CCA2AF02AFFEA79002A320C /* ios calculator */,
-				1CCA2B002AFFEA7B002A320C /* ios calculatorTests */,
-				1CCA2B0A2AFFEA7B002A320C /* ios calculatorUITests */,
+				1CCA2AF02AFFEA79002A320C /* ios tiktaktoe */,
+				1CCA2B002AFFEA7B002A320C /* ios tiktaktoeTests */,
+				1CCA2B0A2AFFEA7B002A320C /* ios tiktaktoeUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,7 +258,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1CCA2AF72AFFEA79002A320C /* ContentView.swift in Sources */,
-				1CCA2AF52AFFEA79002A320C /* ios_calculatorApp.swift in Sources */,
+				1CCA2AF52AFFEA79002A320C /* ios_tiktaktoeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,7 +266,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CCA2B062AFFEA7B002A320C /* ios_calculatorTests.swift in Sources */,
+				1CCA2B062AFFEA7B002A320C /* ios_tiktaktoeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,8 +274,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CCA2B122AFFEA7B002A320C /* ios_calculatorUITestsLaunchTests.swift in Sources */,
-				1CCA2B102AFFEA7B002A320C /* ios_calculatorUITests.swift in Sources */,
+				1CCA2B122AFFEA7B002A320C /* ios_tiktaktoeUITestsLaunchTests.swift in Sources */,
+				1CCA2B102AFFEA7B002A320C /* ios_tiktaktoeUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,12 +284,12 @@
 /* Begin PBXTargetDependency section */
 		1CCA2B032AFFEA7B002A320C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1CCA2AF02AFFEA79002A320C /* ios calculator */;
+			target = 1CCA2AF02AFFEA79002A320C /* ios tiktaktoe */;
 			targetProxy = 1CCA2B022AFFEA7B002A320C /* PBXContainerItemProxy */;
 		};
 		1CCA2B0D2AFFEA7B002A320C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1CCA2AF02AFFEA79002A320C /* ios calculator */;
+			target = 1CCA2AF02AFFEA79002A320C /* ios tiktaktoe */;
 			targetProxy = 1CCA2B0C2AFFEA7B002A320C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -416,7 +416,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ios calculator/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ios tiktaktoe/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -444,7 +444,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ios calculator/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ios tiktaktoe/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -480,7 +480,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios calculator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ios calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios tiktaktoe.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ios tiktaktoe";
 			};
 			name = Debug;
 		};
@@ -499,7 +499,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios calculator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ios calculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ios tiktaktoe.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ios tiktaktoe";
 			};
 			name = Release;
 		};
@@ -540,7 +540,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1CCA2AEC2AFFEA79002A320C /* Build configuration list for PBXProject "ios calculator" */ = {
+		1CCA2AEC2AFFEA79002A320C /* Build configuration list for PBXProject "ios tiktaktoe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCA2B132AFFEA7B002A320C /* Debug */,
@@ -549,7 +549,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1CCA2B152AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculator" */ = {
+		1CCA2B152AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCA2B162AFFEA7B002A320C /* Debug */,
@@ -558,7 +558,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1CCA2B182AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculatorTests" */ = {
+		1CCA2B182AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCA2B192AFFEA7B002A320C /* Debug */,
@@ -567,7 +567,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1CCA2B1B2AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios calculatorUITests" */ = {
+		1CCA2B1B2AFFEA7B002A320C /* Build configuration list for PBXNativeTarget "ios tiktaktoeUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CCA2B1C2AFFEA7B002A320C /* Debug */,
